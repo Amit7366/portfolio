@@ -1,0 +1,16 @@
+.flexible{
+    display: flex;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.highlightColor{
+    color: cornflowerblue;
+}
+.halfWdth{
+    width: 50%;
+    padding: 10% 5%;
+}
+.bannerImg{
+    width: 60%;
+}
