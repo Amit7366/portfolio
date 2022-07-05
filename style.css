@@ -3,6 +3,7 @@
 }
 body{
     font-family: 'Oswald', sans-serif;
+    margin: 0;
 }
 .highlightColor{
     color: cornflowerblue;
@@ -13,4 +14,15 @@ body{
 }
 .bannerImg{
     width: 60%;
+}
+.hire-btn{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange,tomato);
+}
+.hero{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
 }
